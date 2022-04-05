@@ -1,0 +1,550 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PandaPRO 2.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/PandaPRO\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-21T16:50:08+00:00\n"
+"PO-Revision-Date: 2022-03-22 00:51+0800\n"
+"Language: zh_TW\n"
+"X-Generator: Poedit 3.0\n"
+"X-Domain: pandapro\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Theme Name of the theme
+msgid "PandaPRO"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://www.nicetheme.cn/"
+msgstr "https://www.nicetheme.cn/"
+
+#. Description of the theme
+msgid "PandaPRO is a blog theme finely crafted by nicetheme. Panda PRO started from zero for the handiest user experience with elegance and performance."
+msgstr "全新的 Panda PRO 主题从心出发，全新设计，只为让您的站点拥有速度与优雅兼具的极致体验。"
+
+#. Author of the theme
+msgid "nicetheme"
+msgstr "nicetheme"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "哎呀！無法找到該頁面。"
+
+#: 404.php:17
+#: index.php:51
+#: template-parts/svg/404-svg.php:4
+#: template-parts/svg/empty-svg.php:4
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "看起來在這個位置找不到任何東西。也許嘗試下面的連結之一或搜尋？"
+
+#: archive.php:71
+msgid "Column"
+msgstr "專欄"
+
+#: author.php:36
+#: author.php:59
+#: template-parts/mobile-sidebar.php:51
+#: template-parts/mobile-sidebar.php:81
+#: widgets/author-card.php:53
+msgid "Posts"
+msgstr "文章"
+
+#: author.php:40
+#: author.php:62
+#: comments.php:35
+#: template-parts/mobile-sidebar.php:55
+#: widgets/author-card.php:56
+msgid "Comments"
+msgstr "評論"
+
+#: author.php:44
+#: template-parts/mobile-sidebar.php:59
+#: widgets/author-card.php:59
+msgid "Likes"
+msgstr "獲贊"
+
+#: comment.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "您的評論正在等待稽核。"
+
+#: comment.php:28
+msgid "Reply"
+msgstr "回复"
+
+#: comments.php:43
+msgid "Please login to leave a comment."
+msgstr "請登錄後發表評論。"
+
+#: comments.php:46
+#: comments.php:49
+#: template-parts/mobile-sidebar.php:113
+msgid "Login now."
+msgstr "現在登錄。"
+
+#: comments.php:74
+msgid "Logout"
+msgstr "退出登錄"
+
+#: comments.php:78
+msgid "Edit Profile"
+msgstr "編輯資料"
+
+#: comments.php:86
+msgid "Nickname"
+msgstr "暱稱"
+
+#: comments.php:92
+msgid "Email"
+msgstr "郵箱"
+
+#: comments.php:97
+msgid "Website"
+msgstr "網站"
+
+#: comments.php:108
+msgid "Back"
+msgstr "返回"
+
+#: comments.php:110
+msgid "Submit"
+msgstr "發佈評論"
+
+#: comments.php:128
+msgid "Leave a comment"
+msgstr "發表評論"
+
+#: comments.php:139
+#: template-parts/post-navigation.php:7
+#: js/nicetheme.js:381
+#: js/nicetheme.js:728
+msgid "Load more..."
+msgstr "載入更多"
+
+#: comments.php:143
+msgid "Comments are closed."
+msgstr "評論已關閉。"
+
+#: footer.php:44
+msgid "Partners: "
+msgstr "我們的合作夥伴："
+
+#: functions-1.0.5-decode.php:147
+#: functions-1.2.0-encode.php:53
+#: functions-2.php:147
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr "主要導航"
+
+#: functions-1.0.5-decode.php:148
+#: functions-1.2.0-encode.php:54
+#: functions-2.php:148
+#: functions.php:61
+msgid "Mobile Navigation"
+msgstr "手機導航"
+
+#: functions-1.0.5-decode.php:149
+#: functions-1.2.0-encode.php:55
+#: functions-2.php:149
+#: functions.php:62
+msgid "Footer Navigation"
+msgstr "底部导航"
+
+#: functions-1.0.5-decode.php:203
+#: inc/template-functions.php:56
+msgid "Main Sidebar"
+msgstr "主側邊欄"
+
+#: functions-1.0.5-decode.php:205
+#: functions-1.0.5-decode.php:213
+#: functions-1.0.5-decode.php:222
+#: functions-1.0.5-decode.php:231
+#: functions-1.0.5-decode.php:240
+#: functions-1.0.5-decode.php:249
+#: functions-1.0.5-decode.php:258
+#: inc/template-functions.php:58
+#: inc/template-functions.php:66
+#: inc/template-functions.php:75
+#: inc/template-functions.php:84
+#: inc/template-functions.php:93
+#: inc/template-functions.php:102
+#: inc/template-functions.php:111
+msgid "Add widgets here."
+msgstr "在這裡添加小工具。"
+
+#: functions-1.0.5-decode.php:212
+#: inc/template-functions.php:65
+msgid "Archive Sidebar"
+msgstr "歸檔側欄"
+
+#: functions-1.0.5-decode.php:221
+#: inc/template-functions.php:74
+msgid "News Category Sidebar"
+msgstr "快訊分类侧栏"
+
+#: functions-1.0.5-decode.php:230
+#: inc/template-functions.php:83
+msgid "News Sidebar"
+msgstr "快訊侧栏"
+
+#: functions-1.0.5-decode.php:239
+#: inc/template-functions.php:92
+msgid "Single Sidebar"
+msgstr "文章側欄"
+
+#: functions-1.0.5-decode.php:248
+#: inc/template-functions.php:101
+msgid "Author Sidebar"
+msgstr "作者側欄"
+
+#: functions-1.0.5-decode.php:257
+#: inc/template-functions.php:110
+msgid "Page Sidebar"
+msgstr "頁面側欄"
+
+#: functions-1.0.5-decode.php:276
+#: functions-1.0.5-decode.php:277
+#: functions-1.0.5-decode.php:288
+#: functions-1.2.0-encode.php:114
+#: functions-1.2.0-encode.php:115
+#: functions-1.2.0-encode.php:126
+#: functions-2.php:206
+#: functions-2.php:207
+#: functions-2.php:218
+msgid "News"
+msgstr "快訊"
+
+#: functions-1.0.5-decode.php:278
+#: functions-1.0.5-decode.php:279
+#: functions-1.0.5-decode.php:281
+#: functions-1.2.0-encode.php:116
+#: functions-1.2.0-encode.php:117
+#: functions-1.2.0-encode.php:119
+#: functions-2.php:208
+#: functions-2.php:209
+#: functions-2.php:211
+msgid "Add News"
+msgstr "添加快訊"
+
+#: functions-1.0.5-decode.php:280
+#: functions-1.2.0-encode.php:118
+#: functions-2.php:210
+msgid "Edit News"
+msgstr "编辑快訊"
+
+#: functions-1.0.5-decode.php:282
+#: functions-1.2.0-encode.php:120
+#: functions-2.php:212
+msgid "All News"
+msgstr "所有快訊"
+
+#: functions-1.0.5-decode.php:283
+#: functions-1.2.0-encode.php:121
+#: functions-2.php:213
+msgid "View News"
+msgstr "查看快訊"
+
+#: functions-1.0.5-decode.php:284
+#: functions-1.2.0-encode.php:122
+#: functions-2.php:214
+msgid "Search News"
+msgstr "搜索快訊"
+
+#: functions-1.0.5-decode.php:285
+#: functions-1.2.0-encode.php:123
+#: functions-2.php:215
+msgid "We can't find anything..."
+msgstr "并未找到任何快訊..."
+
+#: functions-1.0.5-decode.php:286
+#: functions-1.2.0-encode.php:124
+#: functions-2.php:216
+msgid "We can't find anything in trash..."
+msgstr "在回收站内并未找到任何快訊…"
+
+#: functions-1.0.5-decode.php:319
+#: functions-1.2.0-encode.php:161
+#: functions-2.php:251
+#: inc/template-functions.php:16
+msgid "Topics"
+msgstr "專題"
+
+#: functions-1.0.5-decode.php:338
+#: functions-1.2.0-encode.php:184
+#: functions-2.php:272
+msgid "News Category"
+msgstr "快訊分类"
+
+#: header.php:132
+#: template-parts/mobile-sidebar.php:142
+msgid "<li><a href=\"/wp-admin/nav-menus.php\">Please set up your first menu at [Admin -> Appearance -> Menus]</a></li>"
+msgstr "<li><a href=\"/wp-admin/nav-menus.php\">请到 [后台->外观->菜单] 中设置菜单</a></li>"
+
+#: header.php:166
+msgid "Type anything to search..."
+msgstr "輸入任何內容進行搜索..."
+
+#: inc/template-functions.php:190
+msgid "ago"
+msgstr "前"
+
+#: inc/template-functions.php:403
+msgid "Administrator"
+msgstr "管理人"
+
+#: inc/template-functions.php:405
+msgid "Certified Editor"
+msgstr "編輯"
+
+#: inc/template-functions.php:407
+msgid "Special Author"
+msgstr "特约作者"
+
+#: inc/template-functions.php:409
+msgid "Subscriber"
+msgstr "订阅者"
+
+#: inc/template-functions.php:412
+msgid "Contributor"
+msgstr "貢獻者"
+
+#: inc/template-functions.php:548
+msgid "Sorry, comments are closed."
+msgstr "抱歉，評論已關閉。"
+
+#: inc/template-functions.php:551
+#: inc/template-functions.php:554
+msgid "Unknown error."
+msgstr "未知錯誤。"
+
+#: inc/template-functions.php:557
+msgid "Password protected."
+msgstr "受密碼保護。"
+
+#: inc/template-functions.php:578
+msgid "Sorry, you must be logged in to leave a comment"
+msgstr "抱歉，您必須登入後才能發表評論。"
+
+#: inc/template-functions.php:584
+msgid "Please fill in the required options (Name, Email)."
+msgstr "錯誤：請填寫必須的選項（姓名，電子郵件）。"
+
+#: inc/template-functions.php:587
+msgid "Please input a valid email address."
+msgstr "請輸入有效的電子郵寄地址。"
+
+#: inc/template-functions.php:591
+msgid "Say something..."
+msgstr "說點什麼吧…"
+
+#: inc/template-functions.php:599
+msgid "Please do not repeat your comments. :)"
+msgstr "aha~似乎說過這句話了：）"
+
+#: inc/template-functions.php:607
+msgid "You reply too fast. Take it easy."
+msgstr "你回復太快啦。慢慢來。"
+
+#: inc/template-functions.php:936
+#: search.php:30
+msgid "Search"
+msgstr "搜尋"
+
+#: inc/template-tags.php:14
+#: inc/template-tags.php:17
+msgid "Top"
+msgstr "置頂"
+
+#: inc/template-tags.php:64
+msgid "首页"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "Search Result \"%s\""
+msgstr "搜尋結果 '%s'"
+
+#: inc/template-tags.php:67
+msgid "Topic %s"
+msgstr "專題 %s"
+
+#: inc/template-tags.php:68
+msgid "Tag %s"
+msgstr "標記 %s"
+
+#: inc/template-tags.php:69
+msgid "%s's Posts"
+msgstr "％s 的文章"
+
+#: inc/template-tags.php:70
+msgid "404 Not Found"
+msgstr "404 未發現"
+
+#: inc/template-tags.php:71
+msgid "Page %s"
+msgstr "第 %s 頁"
+
+#: inc/template-tags.php:72
+msgid "Comment Page %s"
+msgstr "評論頁面 %s"
+
+#: inc/template-tags.php:249
+msgid "Admin"
+msgstr "管理員"
+
+#. Template Name of the theme
+msgid "Full Page"
+msgstr "全宽页面"
+
+#. Template Name of the theme
+msgid "Links Page"
+msgstr "友情链接"
+
+#. Template Name of the theme
+msgid "Topics Page"
+msgstr "專題汇总"
+
+#: template-parts/apollo-postlike-section.php:11
+msgid "%d member(s) like this post"
+msgstr "等 %d 人赞过"
+
+#: template-parts/header-user.php:49
+#: template-parts/header-user.php:81
+msgid "My Posts"
+msgstr "我的文章"
+
+#: template-parts/header-user.php:55
+#: template-parts/header-user.php:87
+msgid "My Comments"
+msgstr "我的評論"
+
+#: template-parts/header-user.php:61
+#: template-parts/header-user.php:93
+#: template-parts/mobile-sidebar.php:87
+msgid "Profile"
+msgstr "個人資料"
+
+#: template-parts/header-user.php:104
+#: template-parts/header-user.php:114
+msgid "Register"
+msgstr "注册"
+
+#: template-parts/header-user.php:108
+#: template-parts/header-user.php:118
+#: template-parts/header-user.php:123
+msgid "Sign in"
+msgstr "登入"
+
+#: template-parts/list-ajax-menu.php:10
+msgid "Recommended"
+msgstr "精選"
+
+#: template-parts/mobile-sidebar.php:75
+msgid "New Post"
+msgstr "發佈文章"
+
+#: template-parts/news-category-loop.php:25
+msgid "[Read More]"
+msgstr "[閱讀更多]"
+
+#: template-parts/popup/single-share-popup.php:29
+msgid "Copy Link"
+msgstr "複製連結"
+
+#: template-parts/popup/single-share-popup.php:39
+msgid "Poster"
+msgstr "海報"
+
+#: template-parts/popup/single-share-popup.php:50
+msgid "Weibo"
+msgstr "新浪微博"
+
+#: template-parts/popup/single-share-popup.php:55
+msgid "Open WeChat and Scan QR Code"
+msgstr "打開微信並掃描 QR 碼"
+
+#: template-parts/popup/single-share-popup.php:56
+msgid "Tapping to share this post with friends"
+msgstr "與朋友分享此帖子"
+
+#: template-parts/popup/single-share-popup.php:60
+msgid "WeChat"
+msgstr "微信"
+
+#: template-parts/popup/single-share-popup.php:88
+msgid "Copied!"
+msgstr "已複製!"
+
+#: template-parts/popup/single-share-popup.php:93
+msgid "Copied Failed!"
+msgstr "複製失敗！"
+
+#: template-parts/post-author-section.php:23
+#: widgets/author-card.php:66
+msgid "Donate"
+msgstr "打賞"
+
+#: template-parts/post-content-control.php:28
+msgid "Restricted content"
+msgstr "部分内容已隐藏"
+
+#: template-parts/post-content-control.php:31
+msgid "Login to read more..."
+msgstr "登錄以閱讀更多..."
+
+#: template-parts/post-content-control.php:49
+msgid "Hidden content"
+msgstr "作者设置了回复可见"
+
+#: template-parts/post-content-control.php:51
+msgid "Comment to read more..."
+msgstr "評論以閱讀更多..."
+
+#: template-parts/related-news.php:24
+msgid "Related News"
+msgstr "相关快訊"
+
+#: template-parts/related-posts.php:36
+msgid "Related Posts"
+msgstr "相關文章"
+
+#: template-parts/shortcodes/insert-comment.php:12
+msgid "published on"
+msgstr "發表在"
+
+#: template-parts/single-post-card.php:3
+msgid "That day"
+msgstr " 那年今日"
+
+#: template-parts/single-post-card.php:3
+msgid "Random Post"
+msgstr "隨機一文"
+
+#: widgets/author-card.php:11
+#: widgets/author-card.php:13
+msgid "Panda PRO - Author Card"
+msgstr "Panda PRO - 作者卡片"
+
+#: widgets/featured-tags.php:31
+msgid "Featured Tags"
+msgstr "精選標籤"
+
+#: widgets/featured-topics.php:32
+msgid "Featured Topics"
+msgstr "專題展示"
+
+#: widgets/recommended-posts.php:26
+#: widgets/recommended-posts.php:28
+msgid "Panda PRO - Recommended Posts"
+msgstr "Panda PRO - 文章聚合"
+
+#: widgets/recommended-posts.php:52
+msgid "Recommended Posts"
+msgstr "推薦文章"
+
+#: widgets/single-post-card.php:41
+msgid "Single Post Card"
+msgstr "單文卡片"

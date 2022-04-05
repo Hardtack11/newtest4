@@ -1,0 +1,574 @@
+# Copyright (C) 2022 nicetheme
+# This file is distributed under the .
+msgid ""
+msgstr ""
+"Project-Id-Version: PandaPRO 2.2.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/PandaPRO\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-03-21T16:50:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: pandapro\n"
+
+#. Theme Name of the theme
+msgid "PandaPRO"
+msgstr ""
+
+#. Theme URI of the theme
+#. Author URI of the theme
+msgid "https://www.nicetheme.cn/"
+msgstr ""
+
+#. Description of the theme
+msgid "PandaPRO is a blog theme finely crafted by nicetheme. Panda PRO started from zero for the handiest user experience with elegance and performance."
+msgstr ""
+
+#. Author of the theme
+msgid "nicetheme"
+msgstr ""
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:17
+#: index.php:51
+#: template-parts/svg/404-svg.php:4
+#: template-parts/svg/empty-svg.php:4
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: archive.php:71
+msgid "Column"
+msgstr ""
+
+#: author.php:36
+#: author.php:59
+#: template-parts/mobile-sidebar.php:51
+#: template-parts/mobile-sidebar.php:81
+#: widgets/author-card.php:53
+msgid "Posts"
+msgstr ""
+
+#: author.php:40
+#: author.php:62
+#: comments.php:35
+#: template-parts/mobile-sidebar.php:55
+#: widgets/author-card.php:56
+msgid "Comments"
+msgstr ""
+
+#: author.php:44
+#: template-parts/mobile-sidebar.php:59
+#: widgets/author-card.php:59
+msgid "Likes"
+msgstr ""
+
+#: comment.php:20
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comment.php:28
+msgid "Reply"
+msgstr ""
+
+#: comments.php:43
+msgid "Please login to leave a comment."
+msgstr ""
+
+#: comments.php:46
+#: comments.php:49
+#: template-parts/mobile-sidebar.php:113
+msgid "Login now."
+msgstr ""
+
+#: comments.php:74
+msgid "Logout"
+msgstr ""
+
+#: comments.php:78
+msgid "Edit Profile"
+msgstr ""
+
+#: comments.php:86
+msgid "Nickname"
+msgstr ""
+
+#: comments.php:92
+msgid "Email"
+msgstr ""
+
+#: comments.php:97
+msgid "Website"
+msgstr ""
+
+#: comments.php:108
+msgid "Back"
+msgstr ""
+
+#: comments.php:110
+msgid "Submit"
+msgstr ""
+
+#: comments.php:128
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:139
+#: template-parts/post-navigation.php:7
+#: js/nicetheme.js:381
+#: js/nicetheme.js:728
+msgid "Load more..."
+msgstr ""
+
+#: comments.php:143
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:44
+msgid "Partners: "
+msgstr ""
+
+#: functions-1.0.5-decode.php:147
+#: functions-1.2.0-encode.php:53
+#: functions-2.php:147
+#: functions.php:60
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions-1.0.5-decode.php:148
+#: functions-1.2.0-encode.php:54
+#: functions-2.php:148
+#: functions.php:61
+msgid "Mobile Navigation"
+msgstr ""
+
+#: functions-1.0.5-decode.php:149
+#: functions-1.2.0-encode.php:55
+#: functions-2.php:149
+#: functions.php:62
+msgid "Footer Navigation"
+msgstr ""
+
+#: functions-1.0.5-decode.php:203
+#: inc/template-functions.php:56
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions-1.0.5-decode.php:205
+#: functions-1.0.5-decode.php:213
+#: functions-1.0.5-decode.php:222
+#: functions-1.0.5-decode.php:231
+#: functions-1.0.5-decode.php:240
+#: functions-1.0.5-decode.php:249
+#: functions-1.0.5-decode.php:258
+#: inc/template-functions.php:58
+#: inc/template-functions.php:66
+#: inc/template-functions.php:75
+#: inc/template-functions.php:84
+#: inc/template-functions.php:93
+#: inc/template-functions.php:102
+#: inc/template-functions.php:111
+msgid "Add widgets here."
+msgstr ""
+
+#: functions-1.0.5-decode.php:212
+#: inc/template-functions.php:65
+msgid "Archive Sidebar"
+msgstr ""
+
+#: functions-1.0.5-decode.php:221
+#: inc/template-functions.php:74
+msgid "News Category Sidebar"
+msgstr ""
+
+#: functions-1.0.5-decode.php:230
+#: inc/template-functions.php:83
+msgid "News Sidebar"
+msgstr ""
+
+#: functions-1.0.5-decode.php:239
+#: inc/template-functions.php:92
+msgid "Single Sidebar"
+msgstr ""
+
+#: functions-1.0.5-decode.php:248
+#: inc/template-functions.php:101
+msgid "Author Sidebar"
+msgstr ""
+
+#: functions-1.0.5-decode.php:257
+#: inc/template-functions.php:110
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions-1.0.5-decode.php:276
+#: functions-1.0.5-decode.php:277
+#: functions-1.0.5-decode.php:288
+#: functions-1.2.0-encode.php:114
+#: functions-1.2.0-encode.php:115
+#: functions-1.2.0-encode.php:126
+#: functions-2.php:206
+#: functions-2.php:207
+#: functions-2.php:218
+msgid "News"
+msgstr ""
+
+#: functions-1.0.5-decode.php:278
+#: functions-1.0.5-decode.php:279
+#: functions-1.0.5-decode.php:281
+#: functions-1.2.0-encode.php:116
+#: functions-1.2.0-encode.php:117
+#: functions-1.2.0-encode.php:119
+#: functions-2.php:208
+#: functions-2.php:209
+#: functions-2.php:211
+msgid "Add News"
+msgstr ""
+
+#: functions-1.0.5-decode.php:280
+#: functions-1.2.0-encode.php:118
+#: functions-2.php:210
+msgid "Edit News"
+msgstr ""
+
+#: functions-1.0.5-decode.php:282
+#: functions-1.2.0-encode.php:120
+#: functions-2.php:212
+msgid "All News"
+msgstr ""
+
+#: functions-1.0.5-decode.php:283
+#: functions-1.2.0-encode.php:121
+#: functions-2.php:213
+msgid "View News"
+msgstr ""
+
+#: functions-1.0.5-decode.php:284
+#: functions-1.2.0-encode.php:122
+#: functions-2.php:214
+msgid "Search News"
+msgstr ""
+
+#: functions-1.0.5-decode.php:285
+#: functions-1.2.0-encode.php:123
+#: functions-2.php:215
+msgid "We can't find anything..."
+msgstr ""
+
+#: functions-1.0.5-decode.php:286
+#: functions-1.2.0-encode.php:124
+#: functions-2.php:216
+msgid "We can't find anything in trash..."
+msgstr ""
+
+#: functions-1.0.5-decode.php:319
+#: functions-1.2.0-encode.php:161
+#: functions-2.php:251
+#: inc/template-functions.php:16
+msgid "Topics"
+msgstr ""
+
+#: functions-1.0.5-decode.php:338
+#: functions-1.2.0-encode.php:184
+#: functions-2.php:272
+msgid "News Category"
+msgstr ""
+
+#: header.php:132
+#: template-parts/mobile-sidebar.php:142
+msgid "<li><a href=\"/wp-admin/nav-menus.php\">Please set up your first menu at [Admin -> Appearance -> Menus]</a></li>"
+msgstr ""
+
+#: header.php:166
+msgid "Type anything to search..."
+msgstr ""
+
+#: inc/template-functions.php:190
+msgid "ago"
+msgstr ""
+
+#: inc/template-functions.php:403
+msgid "Administrator"
+msgstr ""
+
+#: inc/template-functions.php:405
+msgid "Certified Editor"
+msgstr ""
+
+#: inc/template-functions.php:407
+msgid "Special Author"
+msgstr ""
+
+#: inc/template-functions.php:409
+msgid "Subscriber"
+msgstr ""
+
+#: inc/template-functions.php:412
+msgid "Contributor"
+msgstr ""
+
+#: inc/template-functions.php:548
+msgid "Sorry, comments are closed."
+msgstr ""
+
+#: inc/template-functions.php:551
+#: inc/template-functions.php:554
+msgid "Unknown error."
+msgstr ""
+
+#: inc/template-functions.php:557
+msgid "Password protected."
+msgstr ""
+
+#: inc/template-functions.php:578
+msgid "Sorry, you must be logged in to leave a comment"
+msgstr ""
+
+#: inc/template-functions.php:584
+msgid "Please fill in the required options (Name, Email)."
+msgstr ""
+
+#: inc/template-functions.php:587
+msgid "Please input a valid email address."
+msgstr ""
+
+#: inc/template-functions.php:591
+msgid "Say something..."
+msgstr ""
+
+#: inc/template-functions.php:599
+msgid "Please do not repeat your comments. :)"
+msgstr ""
+
+#: inc/template-functions.php:607
+msgid "You reply too fast. Take it easy."
+msgstr ""
+
+#: inc/template-functions.php:936
+#: search.php:30
+msgid "Search"
+msgstr ""
+
+#: inc/template-tags.php:14
+#: inc/template-tags.php:17
+msgid "Top"
+msgstr ""
+
+#: inc/template-tags.php:64
+msgid "首页"
+msgstr ""
+
+#: inc/template-tags.php:66
+msgid "Search Result \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:67
+msgid "Topic %s"
+msgstr ""
+
+#: inc/template-tags.php:68
+msgid "Tag %s"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "%s's Posts"
+msgstr ""
+
+#: inc/template-tags.php:70
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/template-tags.php:71
+msgid "Page %s"
+msgstr ""
+
+#: inc/template-tags.php:72
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/template-tags.php:249
+msgid "Admin"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Full Page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Links Page"
+msgstr ""
+
+#. Template Name of the theme
+msgid "Topics Page"
+msgstr ""
+
+#: template-parts/apollo-postlike-section.php:11
+msgid "%d member(s) like this post"
+msgstr ""
+
+#: template-parts/header-user.php:49
+#: template-parts/header-user.php:81
+msgid "My Posts"
+msgstr ""
+
+#: template-parts/header-user.php:55
+#: template-parts/header-user.php:87
+msgid "My Comments"
+msgstr ""
+
+#: template-parts/header-user.php:61
+#: template-parts/header-user.php:93
+#: template-parts/mobile-sidebar.php:87
+msgid "Profile"
+msgstr ""
+
+#: template-parts/header-user.php:104
+#: template-parts/header-user.php:114
+msgid "Register"
+msgstr ""
+
+#: template-parts/header-user.php:108
+#: template-parts/header-user.php:118
+#: template-parts/header-user.php:123
+msgid "Sign in"
+msgstr ""
+
+#: template-parts/list-ajax-menu.php:10
+msgid "Recommended"
+msgstr ""
+
+#: template-parts/mobile-sidebar.php:75
+msgid "New Post"
+msgstr ""
+
+#: template-parts/news-category-loop.php:25
+msgid "[Read More]"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:29
+msgid "Copy Link"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:39
+msgid "Poster"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:50
+msgid "Weibo"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:55
+msgid "Open WeChat and Scan QR Code"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:56
+msgid "Tapping to share this post with friends"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:60
+msgid "WeChat"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:88
+msgid "Copied!"
+msgstr ""
+
+#: template-parts/popup/single-share-popup.php:93
+msgid "Copied Failed!"
+msgstr ""
+
+#: template-parts/post-author-section.php:23
+#: widgets/author-card.php:66
+msgid "Donate"
+msgstr ""
+
+#: template-parts/post-content-control.php:28
+msgid "Restricted content"
+msgstr ""
+
+#: template-parts/post-content-control.php:31
+msgid "Login to read more..."
+msgstr ""
+
+#: template-parts/post-content-control.php:49
+msgid "Hidden content"
+msgstr ""
+
+#: template-parts/post-content-control.php:51
+msgid "Comment to read more..."
+msgstr ""
+
+#: template-parts/related-news.php:24
+msgid "Related News"
+msgstr ""
+
+#: template-parts/related-posts.php:36
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/shortcodes/insert-comment.php:12
+msgid "published on"
+msgstr ""
+
+#: template-parts/single-post-card.php:3
+msgid "That day"
+msgstr ""
+
+#: template-parts/single-post-card.php:3
+msgid "Random Post"
+msgstr ""
+
+#: widgets/author-card.php:11
+#: widgets/author-card.php:13
+msgid "Panda PRO - Author Card"
+msgstr ""
+
+#: widgets/featured-tags.php:31
+msgid "Featured Tags"
+msgstr ""
+
+#: widgets/featured-topics.php:32
+msgid "Featured Topics"
+msgstr ""
+
+#: widgets/recommended-posts.php:26
+#: widgets/recommended-posts.php:28
+msgid "Panda PRO - Recommended Posts"
+msgstr ""
+
+#: widgets/recommended-posts.php:52
+msgid "Recommended Posts"
+msgstr ""
+
+#: widgets/single-post-card.php:41
+msgid "Single Post Card"
+msgstr ""
+
+#: js/ajax-comment.js:32
+msgid "Success!"
+msgstr ""
+
+#: js/nicetheme.js:18
+msgid "[Edit]"
+msgstr ""
+
+#: js/nicetheme.js:19
+msgid "[Close]"
+msgstr ""
+
+#: js/nicetheme.js:480
+msgid "Thank you!"
+msgstr ""
+
+#: js/nicetheme.js:515
+msgid "Cancelled."
+msgstr ""
+
+#: js/nicetheme.js:731
+msgid "You've reached the end."
+msgstr ""
