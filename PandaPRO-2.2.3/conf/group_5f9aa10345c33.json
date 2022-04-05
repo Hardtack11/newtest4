@@ -1,0 +1,109 @@
+{
+    "key": "group_5f9aa10345c33",
+    "title": "Panda PRO 主题标签展示",
+    "fields": [
+        {
+            "key": "field_5f9aa1034874a",
+            "label": "标题",
+            "name": "title",
+            "type": "text",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "文章聚合",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5f9aa1034875f",
+            "label": "显示数量",
+            "name": "num",
+            "type": "number",
+            "instructions": "",
+            "required": 1,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": 10,
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": 1,
+            "max": "",
+            "step": 1
+        },
+        {
+            "key": "field_5f9aa10348769",
+            "label": "显示类型",
+            "name": "type",
+            "type": "button_group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "hot": "热门",
+                "random": "随机"
+            },
+            "allow_null": 0,
+            "default_value": "hot",
+            "layout": "horizontal",
+            "return_format": "value"
+        },
+        {
+            "key": "field_5f9aa589b5c5f",
+            "label": "展示文章数",
+            "name": "display_posts_num",
+            "type": "button_group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": [
+                "否",
+                "是"
+            ],
+            "allow_null": 0,
+            "default_value": 1,
+            "layout": "horizontal",
+            "return_format": "value"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "widget",
+                "operator": "==",
+                "value": "featured_tags"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "config_save_path": "themes\/PandaPRO\/conf",
+    "modified": 1643546190
+}

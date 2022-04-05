@@ -1,0 +1,74 @@
+{
+    "key": "group_5c4d56a73efb1",
+    "title": "Panda PRO 主题分类拓展",
+    "fields": [
+        {
+            "key": "field_5c5034090ce8c",
+            "label": "分类封面",
+            "name": "cover",
+            "type": "image",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "url",
+            "preview_size": "thumbnail",
+            "library": "all",
+            "min_width": "",
+            "min_height": "",
+            "min_size": "",
+            "max_width": "",
+            "max_height": "",
+            "max_size": "",
+            "mime_types": ""
+        },
+        {
+            "key": "field_5fa28fa0dba29",
+            "label": "分类模板",
+            "name": "theme",
+            "type": "image_select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "category-style-1": "默认",
+                "category-style-2": "时间轴"
+            },
+            "default_value": "category-style-1",
+            "multiple": 0,
+            "image_get_function": "pandapro_get_conf_set_category_image",
+            "other_choice": 0,
+            "save_other_choice": 0,
+            "allow_null": 0,
+            "return_format": "value"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "taxonomy",
+                "operator": "==",
+                "value": "category"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "config_save_path": "themes\/PandaPRO\/conf",
+    "modified": 1643546000
+}
